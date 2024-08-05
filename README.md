@@ -2,7 +2,7 @@
 
 ## Power BI Project: Minimum Wage Laws (1968-2020)
 
-Interactive Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMGI3OTI3NDktYzZlMC00NTU2LTg0MmEtOTIwOTJkYjMwNGNhIiwidCI6IjM4MWE0NmQ1LWM5ZmMtNDg0MS04MzRjLTZkMjY5MTlmNWYwNyJ9 
+Interactive Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMGI3OTI3NDktYzZlMC00NTU2LTg0MmEtOTIwOTJkYjMwNGNhIiwidCI6IjM4MWE0NmQ1LWM5ZmMtNDg0MS04MzRjLTZkMjY5MTlmNWYwNyJ9
 
 This project delves into data related to state and federal minimum wage laws in the United States of America, encompassing states and U.S. territories. The data is presented through interactive line graphs that can be filtered by state and year. These line graphs illustrate the changes in minimum wage laws driven by state legislation, federal law, and the cumulative impact of both state and federal laws. Additionally, a dedicated line graph is available to display the equivalent wage for the year 2020.
 
